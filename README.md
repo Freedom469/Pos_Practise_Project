@@ -17,6 +17,6 @@ This PoS system allows users to place orders, view the menu, and exit the progra
 To use this PoS system, you need to have Go installed on your machine. Once you have Go installed, you can clone this repository and build the executable.
 
 ```bash
-git clone <repository_url>
+git clone <https://github.com/Freedom469/Pos_Practise_Project.git>
 cd pos
 go build
